@@ -20,7 +20,7 @@ export default function Hero() {
           <li className=""></li>
         </ul>
       </div>
-      <div className="max-sm:mt-6  lg:mt-36  2xl:scale-125 2xl:mt-56   sm:w-11/12 max-w-5xl   gap-8 w-xs mx-7 sm:mx-auto sm:h-96 h-[590px] flex max-sm:flex-col max-sm:gap-6 sm:border border-slate-900/40 bg-slate-800/70 backdrop-blur-md rounded-2xl shadow-lg shadow-slate-500/70 px-6 pt-7 sm:p-7">
+      <div className="max-sm:mt-6  lg:mt-36   2xl:mt-56   sm:w-11/12 max-w-5xl   gap-8 w-xs mx-7 sm:mx-auto sm:h-96 h-[590px] flex max-sm:flex-col max-sm:gap-6 sm:border border-slate-900/40 bg-slate-800/70 backdrop-blur-md rounded-2xl shadow-lg shadow-slate-500/70 px-6 pt-7 sm:p-7">
         <div className=" self-center  animate-fade-down   sm:mx-2  ">
           <Image
             src="/imgs/perfil.png"
@@ -93,7 +93,7 @@ export default function Hero() {
               </Link>
               <Link
                 href="#projects"
-                className="  sm:mt-9  inline-flex  bg-gray-300 shadow-inner shadow-gray-400 rounded-xl border border-gray-500 text-blue-700 font-bold px-9 py-2 hover:scale-105 duration-200 hover:shadow-md hover:shadow-slate-500/70 hover:bg-white "
+                className="  sm:mt-9  inline-flex  bg-gray-300 shadow-inner shadow-gray-400 rounded-xl border border-gray-500 text-blue-700 font-bold px-6 py-2 hover:scale-105 duration-200 hover:shadow-md hover:shadow-slate-500/70 hover:bg-white "
               >
                 Ver mas
               </Link>
