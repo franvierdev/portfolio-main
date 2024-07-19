@@ -10,7 +10,7 @@ export default function Home() {
         <Hero />
       </main>
       <section
-        className=" max-sm:-mt-40  lg:-mt-36 2xl:mt-44 pb-20 bg-gray-100 "
+        className=" max-sm:-mt-40  lg:-mt-32 2xl:mt-44 pb-20 bg-gray-100 "
         id="projects"
       >
         <Projects />
