@@ -6,11 +6,11 @@ import Technologies from "./sections/technologies/page";
 export default function Home() {
   return (
     <>
-      <main className=" h-screen max-sm:mt-20">
+      <main className=" h-screen max-sm:mt-20 ">
         <Hero />
       </main>
       <section
-        className=" max-sm:-mt-40  lg:-mt-32 2xl:mt-44 pb-20 bg-gray-100 "
+        className=" max-sm:-mt-40  lg:-mt-32 2xl:-mt-56 pb-20 bg-gray-100/10 "
         id="projects"
       >
         <Projects />

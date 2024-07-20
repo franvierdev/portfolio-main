@@ -20,7 +20,7 @@ export default function Hero() {
           <li className=""></li>
         </ul>
       </div>
-      <div className="max-sm:mt-6  lg:mt-32   2xl:mt-56   sm:w-11/12 max-w-5xl  gap-8 w-xs mx-7 sm:mx-auto sm:h-96 h-[590px] flex max-sm:flex-col max-sm:gap-6 sm:border border-slate-900/40 bg-slate-800/70 backdrop-blur-md rounded-2xl shadow-lg shadow-slate-500/70 px-6 pt-7 sm:p-7">
+      <div className="max-sm:mt-6  lg:mt-32   2xl:mt-56  max-w-5xl   gap-8  mx-7 sm:mx-auto sm:h-96 h-[590px] flex max-sm:flex-col max-sm:gap-6 sm:border border-slate-900/40 bg-slate-800/70 backdrop-blur-md rounded-2xl shadow-lg shadow-slate-500/70 px-6 pt-7 sm:p-7">
         <div className=" self-center  animate-fade-down   sm:mx-2  ">
           <Image
             src="/imgs/perfil.png"
@@ -103,7 +103,7 @@ export default function Hero() {
         <div className="max-w-sm max-sm:hidden text-gray-300 flex flex-col gap-4 justify-center ">
           <p className="text-4xl ">Sobre mi</p>
           <p className="text-sm leading-4">
-            Soy un desarrollador front-end autodidacta con experiencia en la
+            Desarrollador front-end autodidacta con experiencia en la
             construcción de proyectos personales. <br /> <br />
             Apasionado por aprender nuevas tecnologías. <br /> <br />
             Mi enfoque se basa en la autodisciplina y la actualización constante

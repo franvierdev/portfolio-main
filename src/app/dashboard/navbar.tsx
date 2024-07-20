@@ -50,7 +50,7 @@ export default function Navbar() {
         )}
       </button>
       <Link
-        className="bg-slate-800/70 backdrop-blur  rounded w-10 sm:w-10 sm:h-10  absolute right-2 sm:-ms-14 top-1 sm:top-3 sm:left-0  ease-in duration-300 sm:shadow-lg sm:shadow-slate-500/70"
+        className="bg-slate-800/70 backdrop-blur  rounded w-10 sm:w-10 sm:h-10  absolute right-2 sm:-ms-14   sm:left-0  ease-in duration-300 sm:shadow-lg sm:shadow-slate-500/70"
         href="/"
       >
         <Image
@@ -59,7 +59,7 @@ export default function Navbar() {
           width={300}
           height={300}
           priority={true}
-          className=" sm:mx-auto sm:mt-[5px] rounded sm:w-7"
+          className=" sm:mx-auto sm:mt-[5px] a rounded sm:w-7"
         />
       </Link>
       <div

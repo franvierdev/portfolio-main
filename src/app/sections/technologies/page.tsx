@@ -35,9 +35,9 @@ export default function Technologies() {
           >
             <path
               fill="currentColor"
-              fill-rule="evenodd"
+              fillRule="evenodd"
               d="M.132.162A.5.5 0 0 1 .5 0h14a.5.5 0 0 1 .498.542l-1 11.916a.5.5 0 0 1-.34.432l-6 2a.5.5 0 0 1-.316 0l-6-2a.5.5 0 0 1-.34-.432L.002.542a.5.5 0 0 1 .13-.38M11 3H4v1h6v2H6v1h4v2.14l-2.5.833L5 9.14V8H4v1.86l3.5 1.167L11 9.86z"
-              clip-rule="evenodd"
+              clipRule="evenodd"
             ></path>
           </svg>
           <p className="">CSS 3</p>
@@ -55,9 +55,9 @@ export default function Technologies() {
           >
             <path
               fill="currentColor"
-              fill-rule="evenodd"
+              fillRule="evenodd"
               d="M15 0H0v15h15zM8 8a2 2 0 0 1 2-2h1.167C12.179 6 13 6.82 13 7.833V8h-1v-.167A.833.833 0 0 0 11.167 7H10a1 1 0 0 0 0 2h1a2 2 0 1 1 0 4h-1a2 2 0 0 1-2-2h1a1 1 0 0 0 1 1h1a1 1 0 1 0 0-2h-1a2 2 0 0 1-2-2M6 6v5a1 1 0 1 1-2 0H3a2 2 0 1 0 4 0V6z"
-              clip-rule="evenodd"
+              clipRule="evenodd"
             ></path>
           </svg>
           <p className="">JavaScript</p>
@@ -75,9 +75,9 @@ export default function Technologies() {
           >
             <path
               fill="currentColor"
-              fill-rule="evenodd"
+              fillRule="evenodd"
               d="M0 0h15v15H0zm10 6a2 2 0 1 0 0 4h1a1 1 0 1 1 0 2h-1a1 1 0 0 1-1-1H8a2 2 0 0 0 2 2h1a2 2 0 1 0 0-4h-1a1 1 0 0 1 0-2h1.167c.46 0 .833.373.833.833V8h1v-.167C13 6.821 12.18 6 11.167 6zM3 6h5v1H6v6H5V7H3z"
-              clip-rule="evenodd"
+              clipRule="evenodd"
             ></path>
           </svg>
           <p className="">TypeScript</p>
@@ -114,7 +114,7 @@ export default function Technologies() {
           <svg
             stroke="currentColor"
             fill="currentColor"
-            stroke-width="0"
+            strokeWidth="0"
             version="1.1"
             viewBox="0 0 34 32"
             height="39.6px"
