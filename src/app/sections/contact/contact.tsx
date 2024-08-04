@@ -17,15 +17,15 @@ export default function Contact() {
     formState: { errors },
   } = useForm<Inputs>();
   return (
-    <div className="flex justify-center gap-10 max-sm:flex-col">
-      <div className="flex flex-col max-w-lg max-sm:max-w-sm max-sm:self-center lg:hidden">
+    <div className="flex justify-center gap-10 max-sm:flex-col my-20">
+      <div className="flex flex-col max-w-lg max-sm:max-w-sm max-sm:self-center text-center lg:hidden text-md">
         Contáctame para conocer, ya sea tu opinión o tu propuesta, rellenando el
         siguiente formulario.
       </div>
       <form
         onSubmit={handleSubmit(onSubmit)}
         method="POST"
-        className="needs-validation max-sm:self-center font-karla border max-lg:w-5/6 lg:max-w-lg  my-20 bg-white rounded-xl p-6 lg:p-8 flex flex-col gap-[20px]"
+        className="needs-validation max-sm:self-center font-karla border max-lg:w-5/6 lg:max-w-lg  lg:my-20 bg-white rounded-xl p-6 lg:p-8 flex flex-col gap-5"
         noValidate
       >
         <div className="font-bold text-2xl">
@@ -143,7 +143,7 @@ export default function Contact() {
           type="submit"
           className="bg-blue-600 hover:bg-blue-800 duration-500 p-3 mt-6 w-full rounded-md text-white"
         >
-          Submit
+          Enviar
         </button>
       </form>
       <div className="flex flex-col max-w-lg max-sm:max-w-sm max-sm:self-center max-lg:hidden">
