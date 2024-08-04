@@ -94,7 +94,7 @@ export default function Navbar() {
 
         <Link
           className="ula p-2 px-3 hover:underline  text-blue-500 hover:text-blue-800   rounded-e-lg  hover:bg-slate-50/60 ease-in duration-300"
-          href="#"
+          href="#contact"
           onClick={ct}
         >
           Contáctame

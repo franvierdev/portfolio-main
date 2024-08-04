@@ -1,9 +1,11 @@
 import Image from "next/image";
 export default function Technologies() {
   return (
-    <section className="container mx-auto max-sm:text-center ">
-      <h2 className=" sm:ms-28 text-5xl font-semibold underline">Skills</h2>
-      <ul className="flex  max-sm:grid max-sm:grid-cols-2 justify-between place-items-center max-w-5xl text-center gap-10 mx-auto mt-10">
+    <section className="flex flex-col max-sm:text-center ">
+      <h2 className=" inline-block mx-auto text-5xl font-semibold underline">
+        Skills
+      </h2>
+      <ul className="flex  max-sm:grid max-sm:grid-cols-2 justify-between place-items-center max-w-5xl text-center gap-10 mx-auto lg:my-10 mt-10">
         <li className="flex flex-col gap-y-2">
           <svg
             xmlns="http://www.w3.org/2000/svg"

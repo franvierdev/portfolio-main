@@ -87,13 +87,13 @@ export default function Hero() {
             <div className="flex gap-4 max-sm:mt-6">
               <Link
                 href="https://drive.google.com/file/d/1XSFxzlyCdWZZEUCZLDRgiH-KwTEg8fPc/view?usp=drive_link"
-                className="  sm:mt-9  inline-flex  bg-blue-600 shadow-inner shadow-blue-800 rounded-xl border border-blue-900 text-gray-200 hover:text-white font-bold px-4 py-2 hover:scale-105 duration-200   hover:shadow-blue-700 hover:shadow-inner hover:bg-blue-500"
+                className="  sm:mt-9  inline-flex  bg-blue-600 shadow-inner shadow-blue-800 rounded-xl border border-blue-900 text-gray-200 hover:text-white font-bold px-3 lg:px-4 py-2 hover:scale-105 duration-200   hover:shadow-blue-700 hover:shadow-inner hover:bg-blue-500"
               >
                 Descargar CV
               </Link>
               <Link
                 href="#projects"
-                className="  sm:mt-9  inline-flex  bg-gray-300 shadow-inner shadow-gray-400 rounded-xl border border-gray-500 text-blue-700 font-bold px-6 py-2 hover:scale-105 duration-200 hover:shadow-md hover:shadow-slate-500/70 hover:bg-white "
+                className="  sm:mt-9  inline-flex  bg-gray-300 shadow-inner shadow-gray-400 rounded-xl border border-gray-500 text-blue-700 font-bold px-5 lg:px-6 py-2 hover:scale-105 duration-200 hover:shadow-md hover:shadow-slate-500/70 hover:bg-white "
               >
                 Ver mas
               </Link>

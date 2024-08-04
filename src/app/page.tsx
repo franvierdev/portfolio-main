@@ -2,6 +2,7 @@ import Image from "next/image";
 import Hero from "./sections/page";
 import Projects from "./sections/projects/page";
 import Technologies from "./sections/technologies/page";
+import Contact from "./sections/contact/contact";
 
 export default function Home() {
   return (
@@ -17,6 +18,9 @@ export default function Home() {
       </section>
       <section className="py-10 bg-gray-900 text-gray-100">
         <Technologies />
+      </section>
+      <section className="" id="contact">
+        <Contact />
       </section>
     </>
   );
