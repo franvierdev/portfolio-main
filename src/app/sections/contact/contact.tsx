@@ -169,7 +169,7 @@ export default function Contact() {
                 width={32}
                 height={32}
                 priority={true}
-                className="p-1 max-sm:w-9 bg-blue-400/90 hover:bg-slate-300/70 backdrop-blur-md rounded border-2 border-slate-700 shadow-md shadow-slate-500/70 hover:w-9  duration-150 hover:-translate-y-1 "
+                className="p-1 max-sm:w-9 bg-blue-400 hover:bg-slate-300/70 backdrop-blur-md rounded border-2 border-slate-700 shadow-md shadow-slate-500/70 hover:w-9  duration-150 hover:-translate-y-1 "
               />
             </Link>
             <Link href="https://wa.link/70sm9h">
@@ -179,7 +179,7 @@ export default function Contact() {
                 width={32}
                 height={32}
                 priority={true}
-                className="p-1 max-sm:w-9 bg-gray-400/90 hover:bg-slate-300/70  backdrop-blur-md rounded border-2 border-slate-700 shadow-md shadow-slate-500/70 hover:w-9  duration-150 hover:-translate-y-1 "
+                className="p-1 max-sm:w-9 bg-blue-400 hover:bg-slate-300/70  backdrop-blur-md rounded border-2 border-slate-700 shadow-md shadow-slate-500/70 hover:w-9  duration-150 hover:-translate-y-1 "
               />
             </Link>
             <Link href="https://www.linkedin.com/in/francisco-salazar-7a91b6292">
@@ -189,7 +189,7 @@ export default function Contact() {
                 width={32}
                 height={32}
                 priority={true}
-                className="p-1 max-sm:w-9 bg-gray-400/90  hover:bg-slate-300/70 backdrop-blur-md rounded border-2 border-slate-700 shadow-md shadow-slate-500/70 hover:w-9  duration-150 hover:-translate-y-1 "
+                className="p-1 max-sm:w-9 bg-blue-400  hover:bg-slate-300/70 backdrop-blur-md rounded border-2 border-slate-700 shadow-md shadow-slate-500/70 hover:w-9  duration-150 hover:-translate-y-1 "
               />
             </Link>
             <Link href="mailto:franccois.dev@gmail.com">
@@ -199,7 +199,7 @@ export default function Contact() {
                 width={32}
                 height={32}
                 priority={true}
-                className="p-1 max-sm:w-9 bg-gray-400/90  hover:bg-slate-300/70 backdrop-blur-md rounded border-2 border-slate-700 shadow-md shadow-slate-500/70 hover:w-9  duration-150 hover:-translate-y-1 "
+                className="p-1 max-sm:w-9 bg-blue-400  hover:bg-slate-300/70 backdrop-blur-md rounded border-2 border-slate-700 shadow-md shadow-slate-500/70 hover:w-9  duration-150 hover:-translate-y-1 "
               />
             </Link>
           </div>
